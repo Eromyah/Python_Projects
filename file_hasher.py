@@ -1,6 +1,6 @@
 import hashlib
 
-print("========== Aaron's MD5 Hash Checker ==========")
+print("========== Aaron's Hash Checker ==========")
 print("")
 
 print("========== Currently Supports MD5 SHA1 SHA512 ==========")
